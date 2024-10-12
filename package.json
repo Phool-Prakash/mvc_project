@@ -1,0 +1,11 @@
+{
+  "name": "project01_mvc",
+  "version": "1.0.0",
+  "description": "about model views and controller",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Phool Prakash",
+  "license": "ISC"
+}
